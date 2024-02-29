@@ -1,1 +1,1 @@
-export const filePath = 'C:/Users/ccgre/Documents/voxel/Videos'
+export const filePath = 'C:/Users/ccgre/Documents/voxel/videos'
